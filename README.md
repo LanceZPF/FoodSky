@@ -4,7 +4,7 @@
   <a href="http://123.57.42.89/FoodComputing__Home.html"><b>HomePage</b></a> |
   <a href="https://arxiv.org/abs/2404.16006"><b>arXiv</b></a> |
   <a href="http://222.92.101.211:8200/\#/home"><b>Demo</b></a> |
-  <a href="# 🖊️ Citation "><b>Citation</b></a> <br>
+  <a href="https://github.com/LanceZPF/FoodSky/blob/main/README.md#%EF%B8%8F-citation"><b>Citation</b></a> <br>
 </p>
 
 This repository is the official implementation of [FoodSky](https://arxiv.org/abs/2406.10261). 
