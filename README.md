@@ -1,4 +1,4 @@
-# FoodSky: A Food-oriented Large Language Model Can Pass the Chef and Dietetic Examination
+# FoodSky: A Food-oriented Large Language Model that Passes the Chef and Dietetic Examination
 
 <p align="left">
   <a href="http://123.57.42.89/FoodComputing__Home.html"><b>HomePage</b></a> |
@@ -9,7 +9,7 @@
 
 This repository is the official implementation of [FoodSky](https://arxiv.org/abs/2406.10261). 
 
-> [FoodSky: A Food-oriented Large Language Model Can Pass the Chef and Dietetic Examination](https://arxiv.org/abs/2406.10261)  
+> [FoodSky: A Food-oriented Large Language Model that Passes the Chef and Dietetic Examination](https://arxiv.org/abs/2406.10261)  
 > Pengfei Zhou, Weiqing Min<sup>\*</sup>, Chaoran Fu, Ying Jin, Mingyu Huang, Xiangyang Li, Shuhuan Mei, and Shuqiang Jiang<sup>\*</sup>
 
 > <sup>\*</sup> Correponding authors. 
