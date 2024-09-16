@@ -20,7 +20,7 @@ FoodSky is a foundamental LLM specifically designed for the world of food, marki
 
 ## 🚀 TODO List
 
-- [X] Release the test sets and test code.
+- [X] Release the test data and test code.
 - [ ] Release the inference code and models.
 - [ ] Release the training code.
 - [ ] Release a version of FoodEarth dataset.
