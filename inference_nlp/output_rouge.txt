@@ -1,0 +1,453 @@
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2596
+ROUGE-2: 0.0828
+ROUGE-L: 0.2226
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2555
+ROUGE-2: 0.0847
+ROUGE-L: 0.2200
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2577
+ROUGE-2: 0.0815
+ROUGE-L: 0.2171
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2715
+ROUGE-2: 0.0810
+ROUGE-L: 0.2250
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2600
+ROUGE-2: 0.0738
+ROUGE-L: 0.2136
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2562
+ROUGE-2: 0.0748
+ROUGE-L: 0.2143
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2506
+ROUGE-2: 0.0746
+ROUGE-L: 0.2075
+
+-----
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2668
+ROUGE-2: 0.0767
+ROUGE-L: 0.2183
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2589
+ROUGE-2: 0.0709
+ROUGE-L: 0.2147
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2545
+ROUGE-2: 0.0692
+ROUGE-L: 0.2071
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2868
+ROUGE-2: 0.0807
+ROUGE-L: 0.2352
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2797
+ROUGE-2: 0.0769
+ROUGE-L: 0.2211
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2697
+ROUGE-2: 0.0786
+ROUGE-L: 0.2214
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2737
+ROUGE-2: 0.0748
+ROUGE-L: 0.2202
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2868
+ROUGE-2: 0.0807
+ROUGE-L: 0.2352
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2797
+ROUGE-2: 0.0769
+ROUGE-L: 0.2211
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2697
+ROUGE-2: 0.0786
+ROUGE-L: 0.2214
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2737
+ROUGE-2: 0.0748
+ROUGE-L: 0.2202
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2892
+ROUGE-2: 0.0802
+ROUGE-L: 0.2390
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3013
+ROUGE-2: 0.0763
+ROUGE-L: 0.2570
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2962
+ROUGE-2: 0.0767
+ROUGE-L: 0.2407
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3032
+ROUGE-2: 0.0864
+ROUGE-L: 0.2545
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3413
+ROUGE-2: 0.1335
+ROUGE-L: 0.2870
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3450
+ROUGE-2: 0.1376
+ROUGE-L: 0.2804
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3321
+ROUGE-2: 0.1312
+ROUGE-L: 0.2809
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3419
+ROUGE-2: 0.1389
+ROUGE-L: 0.2802
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3495
+ROUGE-2: 0.1370
+ROUGE-L: 0.2909
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3415
+ROUGE-2: 0.1342
+ROUGE-L: 0.2729
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3334
+ROUGE-2: 0.1319
+ROUGE-L: 0.2712
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3392
+ROUGE-2: 0.1338
+ROUGE-L: 0.2833
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3423
+ROUGE-2: 0.1329
+ROUGE-L: 0.2854
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3350
+ROUGE-2: 0.1318
+ROUGE-L: 0.2722
+
+-----
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3530
+ROUGE-2: 0.1370
+ROUGE-L: 0.2911
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3336
+ROUGE-2: 0.1340
+ROUGE-L: 0.2789
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3450
+ROUGE-2: 0.1408
+ROUGE-L: 0.2878
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3356
+ROUGE-2: 0.1331
+ROUGE-L: 0.2828
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3258
+ROUGE-2: 0.1273
+ROUGE-L: 0.2684
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3438
+ROUGE-2: 0.1291
+ROUGE-L: 0.2832
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3325
+ROUGE-2: 0.1323
+ROUGE-L: 0.2786
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3489
+ROUGE-2: 0.1427
+ROUGE-L: 0.2918
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3463
+ROUGE-2: 0.1347
+ROUGE-L: 0.2924
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3519
+ROUGE-2: 0.1366
+ROUGE-L: 0.2911
+
+-----
+
+ROUGE Results
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3233
+ROUGE-2: 0.1206
+ROUGE-L: 0.2797
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.4342
+ROUGE-2: 0.2429
+ROUGE-L: 0.4114
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.4414
+ROUGE-2: 0.2534
+ROUGE-L: 0.4187
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3222
+ROUGE-2: 0.1192
+ROUGE-L: 0.2764
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3233
+ROUGE-2: 0.1206
+ROUGE-L: 0.2797
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.4342
+ROUGE-2: 0.2429
+ROUGE-L: 0.4114
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.4414
+ROUGE-2: 0.2534
+ROUGE-L: 0.4187
+ROUGE Results
+
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3124
+ROUGE-2: 0.0720
+ROUGE-L: 0.2565
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.2797
+ROUGE-2: 0.0535
+ROUGE-L: 0.2280
+
+Culinary Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.2579
+ROUGE-2: 0.0497
+ROUGE-L: 0.2165
+
+Dietetic Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.2948
+ROUGE-2: 0.0562
+ROUGE-L: 0.2359
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3124
+ROUGE-2: 0.0720
+ROUGE-L: 0.2565
+
+Culinary Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.2768
+ROUGE-2: 0.0677
+ROUGE-L: 0.2291
+
+Dietetic Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3370
+ROUGE-2: 0.0750
+ROUGE-L: 0.2754
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3046
+ROUGE-2: 0.0705
+ROUGE-L: 0.2339
+
+Culinary Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3034
+ROUGE-2: 0.0812
+ROUGE-L: 0.2334
+
+Dietetic Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3055
+ROUGE-2: 0.0631
+ROUGE-L: 0.2343
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3124
+ROUGE-2: 0.0720
+ROUGE-L: 0.2565
+
+Culinary Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.2768
+ROUGE-2: 0.0677
+ROUGE-L: 0.2291
+
+Dietetic Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3370
+ROUGE-2: 0.0750
+ROUGE-L: 0.2754
+ROUGE Results
+
+Average ROUGE Scores:
+ROUGE-1: 0.3046
+ROUGE-2: 0.0705
+ROUGE-L: 0.2339
+
+Culinary Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3034
+ROUGE-2: 0.0812
+ROUGE-L: 0.2334
+
+Dietetic Type Results:
+Average ROUGE Scores:
+ROUGE-1: 0.3055
+ROUGE-2: 0.0631
+ROUGE-L: 0.2343

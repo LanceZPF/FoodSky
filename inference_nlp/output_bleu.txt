@@ -1,0 +1,171 @@
+BLEU Results
+
+BLEU Results
+
+Average BLEU-1 score: 0.1739
+Average BLEU-2 score: 0.0945
+Average BLEU-3 score: 0.0656
+Average BLEU-4 score: 0.0491
+BLEU Results
+
+Average BLEU-1 score: 0.1739
+Average BLEU-2 score: 0.0945
+Average BLEU-3 score: 0.0656
+Average BLEU-4 score: 0.0491
+BLEU Results
+
+Average BLEU-1 score: 0.1728
+Average BLEU-2 score: 0.0938
+Average BLEU-3 score: 0.0653
+Average BLEU-4 score: 0.0489
+BLEU Results
+
+Average BLEU-1 score: 0.0966
+Average BLEU-2 score: 0.0954
+Average BLEU-3 score: 0.0941
+Average BLEU-4 score: 0.0928
+BLEU Results
+
+Average BLEU-1 score: 0.0674
+Average BLEU-2 score: 0.0661
+Average BLEU-3 score: 0.0648
+Average BLEU-4 score: 0.0635
+BLEU Results
+
+Average BLEU-1 score: 0.2272
+Average BLEU-2 score: 0.1572
+Average BLEU-3 score: 0.1315
+Average BLEU-4 score: 0.1181
+BLEU Results
+
+Average BLEU-1 score: 0.2273
+Average BLEU-2 score: 0.1572
+Average BLEU-3 score: 0.1316
+Average BLEU-4 score: 0.1181
+BLEU Results
+
+Average BLEU-1 score: 0.2500
+Average BLEU-2 score: 0.1721
+Average BLEU-3 score: 0.1408
+Average BLEU-4 score: 0.1251
+BLEU Results
+
+Average BLEU-1 score: 0.2499
+Average BLEU-2 score: 0.1721
+Average BLEU-3 score: 0.1407
+Average BLEU-4 score: 0.1251
+BLEU Results
+
+Average BLEU-1 score: 0.2272
+Average BLEU-2 score: 0.1572
+Average BLEU-3 score: 0.1315
+Average BLEU-4 score: 0.1181
+BLEU Results
+
+Average BLEU-1 score: 0.2272
+Average BLEU-2 score: 0.1572
+Average BLEU-3 score: 0.1315
+Average BLEU-4 score: 0.1181
+BLEU Results
+
+BLEU Results
+
+Average BLEU-1 score: 0.2313
+Average BLEU-2 score: 0.1080
+Average BLEU-3 score: 0.0576
+Average BLEU-4 score: 0.0305
+BLEU Results
+
+Overall Results:
+Average BLEU-1 score: 0.1979
+Average BLEU-2 score: 0.0847
+Average BLEU-3 score: 0.0403
+Average BLEU-4 score: 0.0165
+
+Culinary Type Results:
+Culinary BLEU-1 score: 0.1768
+Culinary BLEU-2 score: 0.0771
+Culinary BLEU-3 score: 0.0361
+Culinary BLEU-4 score: 0.0143
+
+Dietetic Type Results:
+Dietetic BLEU-1 score: 0.2126
+Dietetic BLEU-2 score: 0.0900
+Dietetic BLEU-3 score: 0.0433
+Dietetic BLEU-4 score: 0.0180
+BLEU Results
+
+Overall Results:
+Average BLEU-1 score: 0.2313
+Average BLEU-2 score: 0.1080
+Average BLEU-3 score: 0.0576
+Average BLEU-4 score: 0.0305
+
+Culinary Type Results:
+Culinary BLEU-1 score: 0.1994
+Culinary BLEU-2 score: 0.0982
+Culinary BLEU-3 score: 0.0544
+Culinary BLEU-4 score: 0.0290
+
+Dietetic Type Results:
+Dietetic BLEU-1 score: 0.2533
+Dietetic BLEU-2 score: 0.1148
+Dietetic BLEU-3 score: 0.0599
+Dietetic BLEU-4 score: 0.0315
+BLEU Results
+
+Overall Results:
+Average BLEU-1 score: 0.2561
+Average BLEU-2 score: 0.1190
+Average BLEU-3 score: 0.0596
+Average BLEU-4 score: 0.0257
+
+Culinary Type Results:
+Culinary BLEU-1 score: 0.2530
+Culinary BLEU-2 score: 0.1238
+Culinary BLEU-3 score: 0.0646
+Culinary BLEU-4 score: 0.0253
+
+Dietetic Type Results:
+Dietetic BLEU-1 score: 0.2582
+Dietetic BLEU-2 score: 0.1157
+Dietetic BLEU-3 score: 0.0560
+Dietetic BLEU-4 score: 0.0259
+BLEU Results
+
+Overall Results:
+Average BLEU-1 score: 0.2313
+Average BLEU-2 score: 0.1080
+Average BLEU-3 score: 0.0576
+Average BLEU-4 score: 0.0305
+
+Culinary Type Results:
+Culinary BLEU-1 score: 0.1994
+Culinary BLEU-2 score: 0.0982
+Culinary BLEU-3 score: 0.0544
+Culinary BLEU-4 score: 0.0290
+
+Dietetic Type Results:
+Dietetic BLEU-1 score: 0.2533
+Dietetic BLEU-2 score: 0.1148
+Dietetic BLEU-3 score: 0.0599
+Dietetic BLEU-4 score: 0.0315
+BLEU Results
+
+Overall Results:
+Average BLEU-1 score: 0.2561
+Average BLEU-2 score: 0.1190
+Average BLEU-3 score: 0.0596
+Average BLEU-4 score: 0.0257
+
+Culinary Type Results:
+Culinary BLEU-1 score: 0.2530
+Culinary BLEU-2 score: 0.1238
+Culinary BLEU-3 score: 0.0646
+Culinary BLEU-4 score: 0.0253
+
+Dietetic Type Results:
+Dietetic BLEU-1 score: 0.2582
+Dietetic BLEU-2 score: 0.1157
+Dietetic BLEU-3 score: 0.0560
+Dietetic BLEU-4 score: 0.0259

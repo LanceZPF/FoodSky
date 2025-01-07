@@ -1,0 +1,469 @@
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1546
+Corpus GLEU score: 0.0030
+Average Distinct-1: 0.5591
+Average Distinct-2: 0.7655
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1488
+Corpus GLEU score: 0.0022
+Average Distinct-1: 0.5087
+Average Distinct-2: 0.7100
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1358
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.5403
+Average Distinct-2: 0.7595
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1484
+Corpus GLEU score: 0.0021
+Average Distinct-1: 0.5392
+Average Distinct-2: 0.7548
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1278
+Corpus GLEU score: 0.0039
+Average Distinct-1: 0.7910
+Average Distinct-2: 0.9779
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1342
+Corpus GLEU score: 0.0039
+Average Distinct-1: 0.7855
+Average Distinct-2: 0.9754
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1272
+Corpus GLEU score: 0.0038
+Average Distinct-1: 0.7627
+Average Distinct-2: 0.9561
+
+-----
+
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1396
+Corpus GLEU score: 0.0030
+Average Distinct-1: 0.7071
+Average Distinct-2: 0.9212
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1324
+Corpus GLEU score: 0.0033
+Average Distinct-1: 0.6848
+Average Distinct-2: 0.8982
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1425
+Corpus GLEU score: 0.0030
+Average Distinct-1: 0.6838
+Average Distinct-2: 0.9075
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1604
+Corpus GLEU score: 0.0027
+Average Distinct-1: 0.6383
+Average Distinct-2: 0.8919
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1450
+Corpus GLEU score: 0.0027
+Average Distinct-1: 0.6337
+Average Distinct-2: 0.8789
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1486
+Corpus GLEU score: 0.0029
+Average Distinct-1: 0.6532
+Average Distinct-2: 0.8984
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1616
+Corpus GLEU score: 0.0028
+Average Distinct-1: 0.6526
+Average Distinct-2: 0.9099
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1604
+Corpus GLEU score: 0.0027
+Average Distinct-1: 0.6383
+Average Distinct-2: 0.8919
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1450
+Corpus GLEU score: 0.0027
+Average Distinct-1: 0.6337
+Average Distinct-2: 0.8789
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1486
+Corpus GLEU score: 0.0029
+Average Distinct-1: 0.6532
+Average Distinct-2: 0.8984
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1616
+Corpus GLEU score: 0.0028
+Average Distinct-1: 0.6526
+Average Distinct-2: 0.9099
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1631
+Corpus GLEU score: 0.0023
+Average Distinct-1: 0.5249
+Average Distinct-2: 0.7900
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1690
+Corpus GLEU score: 0.0025
+Average Distinct-1: 0.5192
+Average Distinct-2: 0.7827
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1589
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.4979
+Average Distinct-2: 0.7689
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1698
+Corpus GLEU score: 0.0023
+Average Distinct-1: 0.5427
+Average Distinct-2: 0.8108
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1642
+Corpus GLEU score: 0.0024
+Average Distinct-1: 0.5374
+Average Distinct-2: 0.7786
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1730
+Corpus GLEU score: 0.0030
+Average Distinct-1: 0.5708
+Average Distinct-2: 0.8333
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1619
+Corpus GLEU score: 0.0031
+Average Distinct-1: 0.5781
+Average Distinct-2: 0.8254
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1732
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.5166
+Average Distinct-2: 0.7962
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1723
+Corpus GLEU score: 0.0028
+Average Distinct-1: 0.5484
+Average Distinct-2: 0.8205
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1634
+Corpus GLEU score: 0.0021
+Average Distinct-1: 0.5325
+Average Distinct-2: 0.7876
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1606
+Corpus GLEU score: 0.0024
+Average Distinct-1: 0.5598
+Average Distinct-2: 0.8160
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1613
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.5595
+Average Distinct-2: 0.8210
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1724
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.5330
+Average Distinct-2: 0.7993
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1720
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.5185
+Average Distinct-2: 0.7703
+
+-----
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1658
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.5328
+Average Distinct-2: 0.8178
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1642
+Corpus GLEU score: 0.0023
+Average Distinct-1: 0.5378
+Average Distinct-2: 0.7979
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1826
+Corpus GLEU score: 0.0029
+Average Distinct-1: 0.5383
+Average Distinct-2: 0.8092
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1634
+Corpus GLEU score: 0.0023
+Average Distinct-1: 0.5097
+Average Distinct-2: 0.7691
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1465
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.5004
+Average Distinct-2: 0.7275
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1679
+Corpus GLEU score: 0.0024
+Average Distinct-1: 0.5470
+Average Distinct-2: 0.8101
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1645
+Corpus GLEU score: 0.0024
+Average Distinct-1: 0.5412
+Average Distinct-2: 0.7928
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1756
+Corpus GLEU score: 0.0023
+Average Distinct-1: 0.5235
+Average Distinct-2: 0.7786
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1732
+Corpus GLEU score: 0.0024
+Average Distinct-1: 0.5034
+Average Distinct-2: 0.7583
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1693
+Corpus GLEU score: 0.0026
+Average Distinct-1: 0.5184
+Average Distinct-2: 0.7835
+
+-----
+
+Evaluation Metrics Results
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1181
+Corpus GLEU score: 0.0013
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1340
+Corpus GLEU score: 0.0016
+Average Distinct-1: 0.3090
+Average Distinct-2: 0.5591
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.3090
+Average Distinct-2: 0.5591
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1751
+Corpus GLEU score: 0.0014
+Average Distinct-1: 0.2711
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.3090
+Average Distinct-2: 0.5591
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.2921
+Average Distinct-2: 0.5292
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.3214
+Average Distinct-2: 0.5736
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.3090
+Average Distinct-2: 0.5591
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1879
+Corpus GLEU score: 0.0017
+Average Distinct-1: 0.3090
+Average Distinct-2: 0.5591
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1751
+Corpus GLEU score: 0.0014
+Average Distinct-1: 0.2710
+Average Distinct-2: 0.4858
+Evaluation Metrics Results
+
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1388
+Corpus GLEU score: 0.0018
+Average Distinct-1: 0.4035
+Average Distinct-2: 0.7129
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1152
+Corpus GLEU score: 0.0018
+Average Distinct-1: 0.4035
+Average Distinct-2: 0.7129
+
+Culinary Type Results:
+Average Sentence GLEU score: 0.1010
+Corpus GLEU score: 0.0014
+Average Distinct-1: 0.4277
+Average Distinct-2: 0.7532
+
+Dietetic Type Results:
+Average Sentence GLEU score: 0.1249
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.3868
+Average Distinct-2: 0.6851
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1388
+Corpus GLEU score: 0.0018
+Average Distinct-1: 0.4035
+Average Distinct-2: 0.7129
+
+Culinary Type Results:
+Average Sentence GLEU score: 0.1218
+Corpus GLEU score: 0.0014
+Average Distinct-1: 0.4277
+Average Distinct-2: 0.7532
+
+Dietetic Type Results:
+Average Sentence GLEU score: 0.1505
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.3868
+Average Distinct-2: 0.6851
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1564
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.4875
+Average Distinct-2: 0.7876
+
+Culinary Type Results:
+Average Sentence GLEU score: 0.1651
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.5529
+Average Distinct-2: 0.8545
+
+Dietetic Type Results:
+Average Sentence GLEU score: 0.1503
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.4421
+Average Distinct-2: 0.7413
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1388
+Corpus GLEU score: 0.0018
+Average Distinct-1: 0.4035
+Average Distinct-2: 0.7129
+
+Culinary Type Results:
+Average Sentence GLEU score: 0.1218
+Corpus GLEU score: 0.0014
+Average Distinct-1: 0.4277
+Average Distinct-2: 0.7532
+
+Dietetic Type Results:
+Average Sentence GLEU score: 0.1505
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.3868
+Average Distinct-2: 0.6851
+Evaluation Metrics Results
+
+Average Sentence GLEU score: 0.1564
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.4875
+Average Distinct-2: 0.7876
+
+Culinary Type Results:
+Average Sentence GLEU score: 0.1651
+Corpus GLEU score: 0.0020
+Average Distinct-1: 0.5529
+Average Distinct-2: 0.8545
+
+Dietetic Type Results:
+Average Sentence GLEU score: 0.1503
+Corpus GLEU score: 0.0019
+Average Distinct-1: 0.4421
+Average Distinct-2: 0.7413

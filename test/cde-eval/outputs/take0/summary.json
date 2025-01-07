@@ -1,0 +1,29 @@
+{
+  "nutrition_exam": {
+    "score": 88.0184331797235,
+    "num": 651,
+    "correct": 573.0
+  },
+  "cook_exam": {
+    "score": 81.71701112877584,
+    "num": 629,
+    "correct": 514.0
+  },
+  "grouped": {
+    "cook": {
+      "correct": 514.0,
+      "num": 629,
+      "score": 0.8171701112877583
+    },
+    "nutrition": {
+      "correct": 573.0,
+      "num": 651,
+      "score": 0.880184331797235
+    }
+  },
+  "All": {
+    "score": 0.84921875,
+    "num": 1280,
+    "correct": 1087.0
+  }
+}
