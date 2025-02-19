@@ -29,8 +29,7 @@ Please refer to [Quick Start Guide](QuickStart.md) for detailed instructions on 
 ### Training
 Refer to `train/train_scripts/README.md` for detailed training instructions covering:
 - Resource optimization (Full-tuning, LoRA, QLoRA)
-- Advanced algorithms (GaLore, BAdam, Adam-mini, DoRA, LongLoRA)
-- Practical tricks (FlashAttention-2, Unsloth, Liger Kernel, RoPE scaling, NEFTune, rsLoRA)
+- Practical tricks (FlashAttention-2, RoPE scaling, etc.)
 - Experiment monitoring tools
 
 ## 🎯 TODO List
@@ -38,12 +37,12 @@ Refer to `train/train_scripts/README.md` for detailed training instructions cove
 - [X] Release the test data and test code.
 - [X] Release the inference code.
 - [X] Release the training code and models.
-- [ ] Release a version of FoodEarth dataset.
+- [x] Release a version of FoodEarth dataset.
 - [ ] Release a bilingual version of FoodSky and FoodEarth.
 
 ## 📞 Contact
 
-We provide the FoodSky models in Zenodo. To prevent server overload, our demo system requires authentication. If you are interested in accessing our work, please contact us through the following channels to request credentials:
+We provide the FoodSky models and FoodEarth dataset in \hred{https://zenodo.org/records/14824730}{Zenodo}. To prevent server overload, our \href{http://222.92.101.211:8200/\#/home}{demo system} requires authentication. You can try the experience account using username: test, password: 123456. If you are interested in further accessing our work, please contact us through the following channels to request credentials:
 
 - 📧 Email: [zpf4wp@outlook.com](mailto:zpf4wp@outlook.com)
 - 🌐 Homepage: [http://123.57.42.89/FoodComputing__Home.html](http://123.57.42.89/FoodComputing__Home.html)
