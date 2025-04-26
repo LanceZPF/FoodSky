@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="http://123.57.42.89/FoodComputing__Home.html"><b>HomePage</b></a> |
-  <a href="https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0"><b>arXiv</b></a> |
+  <a href="https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0"><b>Paper</b></a> |
   <a href="http://222.92.101.211:8200/\#/home"><b>Demo</b></a> |
   <a href="https://github.com/LanceZPF/FoodSky/blob/main/README.md#%EF%B8%8F-citation"><b>Citation</b></a> <br>
 </p>
