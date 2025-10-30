@@ -42,7 +42,7 @@ Refer to `train/train_scripts/README.md` for detailed training instructions cove
 
 ## 📞 Contact
 
-We provide the FoodSky models and FoodEarth dataset in [Zenodo](https://zenodo.org/records/14892842). To prevent server overload, our [demo system](http://222.92.101.211:8200/\#/home) requires authentication. You can try the experience account using username: test, password: 123456. If you are interested in further accessing our work, please contact us through the following channels to request credentials:
+We provide the FoodSky models and FoodEarth dataset in [Zenodo](https://zenodo.org/records/14892842) (full dataset version is encrypted due to the commercial conflicts, please use the mini version with 20K instances). To prevent server overload, our [demo system](http://222.92.101.211:8200/\#/home) requires authentication. You can try the experience account using username: test, password: 123456. If you are interested in further accessing our work, please contact us through the following channels to request credentials:
 
 - 📧 Email: [zpf4wp@outlook.com](mailto:zpf4wp@outlook.com)
 - 🌐 Homepage: [http://123.57.42.89/FoodComputing__Home.html](http://123.57.42.89/FoodComputing__Home.html)
